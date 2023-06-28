@@ -2,7 +2,7 @@
   "name": "3d-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Soni-Krish.github.io/Soni-Krish.github.io",
+  "homepage": "https://https://soni-krish.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
